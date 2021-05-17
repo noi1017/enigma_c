@@ -1,6 +1,7 @@
 # Enigma Machine (C lang)
+#### Video Demo:  https://youtu.be/sF-2c6sRnpE
+#### Description: Here I created an Enigma Machine based on the real life counter part the Germans used in WWII
 
-Here I created an Enigma Machine based on the real life counter part the Germans used in WWII
 
 ## Resources:
 
